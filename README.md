@@ -1,4 +1,4 @@
-# IoTVisualizer
+# IoT Environment Visualizer
 Recently, they have been issued a business challenge to help visualize a factory's shop floor IoT readouts for better understanding of why issues arise.
  
 Traditionally reporting would occur in a dashboard. However we are interested in exploring this opportunity further by actually visualizing the report output via mixed reality. Viewing the readouts of embedded IoT devices in plant machinery provides a environmental perspective to understanding shop floor problems.
